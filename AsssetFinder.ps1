@@ -1,3 +1,4 @@
+#This Needs to be converted to a batch file so it can be ran by opening the batch
 #>>>>>Written by Bryce Hazen Howard and John Williamson<<<<<
  
 write-host 'Developed by: Bryce Hazen Howard and John Williamson' -ForegroundColor Green
